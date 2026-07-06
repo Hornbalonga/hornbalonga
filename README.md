@@ -28,6 +28,6 @@ Sou um desenvolvedor apaixonado por construir aplicações eficientes e escaláv
 ## 📊 Estatísticas do GitHub
 
 <!-- Substitua 'SEU_USUARIO' pelo seu nome de usuário do GitHub para ativar os cards visuais -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/SEU_USUARIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hornbalonga&layout=compact&theme=radical)](https://github.com/Hornbalonga)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)](https://github.com/SEU_USUARIO)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hornbalonga&show_icons=true&theme=radical)](https://github.com/Hornbalonga)
