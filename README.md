@@ -25,9 +25,9 @@ Sou um desenvolvedor apaixonado por construir aplicações eficientes e escaláv
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividades
 
-<!-- Substitua 'SEU_USUARIO' pelo seu nome de usuário do GitHub para ativar os cards visuais -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hornbalonga&layout=compact&theme=radical)](https://github.com/Hornbalonga)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hornbalonga&show_icons=true&theme=radical)](https://github.com/Hornbalonga)
+| Métrica | Link |
+| --- | --- |
+| **Meu Perfil** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/Hornbalonga) |
+| **Repositórios** | ![Repositories](https://img.shields.io/badge/Dynamic-Data-blue?style=flat-square&label=Projetos&labelColor=24292e) |
